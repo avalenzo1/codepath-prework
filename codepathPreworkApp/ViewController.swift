@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         
         view.backgroundColor = randomColor
     }
+    @IBAction func LinkedIn(_ sender: UIButton) {
+        guard let url = URL(string: "https://www.linkedin.com/in/avalenzo/") else { return }
+        UIApplication.shared.open(url)
+    }
     
     func changeColor() -> UIColor {
         let red = CGFloat.random(in: 0.5...1)
