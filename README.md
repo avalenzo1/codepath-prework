@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Accidentaly had two outlets for one the changeBackgroundColor button which led to the app crashing.
 
 ## License
 
