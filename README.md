@@ -4,7 +4,7 @@ Submitted by: Anthony Valenzo
 
 codepathPreworkApp is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Required Features
 
@@ -15,7 +15,10 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 218.21862348178138%; height: 0;"><iframe src="https://www.loom.com/embed/38c6cc219f4b469da1e7f51793c48310?sid=a307e75c-94d3-4fd1-8565-891262d287b1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 218.21862348178138%; height: 0;">
+ <iframe src="https://www.loom.com/embed/38c6cc219f4b469da1e7f51793c48310?sid=a307e75c-94d3-4fd1-8565-891262d287b1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+ </iframe>
+</div>
 
 ## App Brainstorming (Step 4)
 
@@ -25,7 +28,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Anthony valenzo
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
