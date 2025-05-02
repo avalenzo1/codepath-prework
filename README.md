@@ -15,9 +15,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 218.21862348178138%; height: 0;">
- <iframe src="https://www.loom.com/embed/38c6cc219f4b469da1e7f51793c48310?sid=a307e75c-94d3-4fd1-8565-891262d287b1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
- </iframe>
+<div>
+    <a href="https://www.loom.com/share/38c6cc219f4b469da1e7f51793c48310">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 2 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/38c6cc219f4b469da1e7f51793c48310">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/38c6cc219f4b469da1e7f51793c48310-a662fe36b84567ed-full-play.gif">
+    </a>
 </div>
 
 ## App Brainstorming (Step 4)
